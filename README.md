@@ -54,7 +54,7 @@ Are you using Fine Uploader inside of a larger framework (such as React, Angular
 
 ### Contribute code
 
-The best way to contribute code is to open up a pull request that addresses one of the open [feature requests or bugs][issues]. In order to get started developing Fine Uploader, read this entire section to get the project up and running on your local development machine. This section describes how you can build and test Fine Uploader locally. You may use these instructions to build a copy for yourself, or to contribute changes back to the library. 
+The best way to contribute code is to open up a pull request that addresses one of the open [feature requests or bugs][issues]. To get started with developing Fine Uploader, read this entire section to get the project up and running on your local development machine. This section describes how you can build and test Fine Uploader locally. You may use these instructions to build a copy for yourself, or to contribute changes back to the library. 
 
 #### Setup
 
